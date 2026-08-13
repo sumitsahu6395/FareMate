@@ -1,0 +1,83 @@
+From,To,Shared Fare ₹,Distance,Time
+Charbagh,Kaiserbagh,10–15,3 km,10–15 min
+Kaiserbagh,Chowk,10–15,2–3 km,10–15 min
+Aminabad,Chowk,10–15,2 km,10–12 min
+Hazratganj,Aminabad,10–20,2–3 km,10–15 min
+Hazratganj,Gomti Nagar,20–30,6–8 km,20–30 min
+Gomti Nagar,Polytechnic,15–25,5–6 km,15–25 min
+Polytechnic,Engineering College,10–15,3–4 km,10–15 min
+Engineering College,Munshi Pulia,10–15,3 km,10–15 min
+Munshi Pulia,Indira Nagar,5–10,1–2 km,5–10 min
+Indira Nagar,Bhoothnath Market,5–10,1–2 km,5–10 min
+Indira Nagar,Polytechnic,10–20,3–4 km,8–15 min
+Nishatganj,Hazratganj,10–20,4–5 km,15–20 min
+Nishatganj,IT College,5–10,1–2 km,5–10 min
+Kapoorthala,Aliganj,10–15,2–3 km,10–15 min
+Aliganj,Engineering College,10–15,3–4 km,10–15 min
+Polytechnic,BBD,20–30,6–8 km,15–25 min
+BBD,Kamta,10–20,6 km,10–15 min
+BBD,Matiyari,5–10,2–3 km,5–10 min
+BBD,1090 Chauraha,20–30,7–9 km,20–30 min
+BBD,Hazratganj,30–40,12–14 km,30–45 min
+BBD,Barabanki,30–40,20–22 km,35–50 min
+Alambagh,Airport,20–30,5–6 km,15–20 min
+Charbagh,Airport,30–40,10–12 km,25–35 min
+Alambagh,Charbagh,10–15,3 km,10–15 min
+Alambagh,Kaiserbagh,15–20,5 km,15–20 min
+Charbagh,Hazratganj,15–20,5 km,15–20 min
+Charbagh,Aminabad,10–15,3 km,10–15 min
+Hazratganj,Nishatganj,10–20,4–5 km,15–20 min
+Hazratganj,Aliganj,20–30,7 km,20–30 min
+Nishatganj,Aliganj,10–15,3 km,10–15 min
+Munshi Pulia,Gomti Nagar,15–20,5 km,15–20 min
+Gomti Nagar,1090 Chauraha,10–15,3 km,10–15 min
+Kamta,Polytechnic,15–25,6 km,15–25 min
+Chinhat,Kamta,10–15,4 km,10–15 min
+Chinhat,Gomti Nagar,20–25,7 km,20–25 min
+Barabanki,Chinhat,30–40,20 km,35–50 min
+IT College,Kapoorthala,10–15,3 km,10–15 min
+Aliganj,Bhoothnath,10–15,3 km,10–15 min
+Polytechnic,Nishatganj,10–15,3 km,10–15 min
+Kamta,Matiyari,15-20,5.1 km,15-16 min
+Rumi Gate,Saadatganj,10-20,5.8 km,19-20 min
+Rajajipuram,Polytechnic,40-50,15km,41-50 min
+Rajajipuram,Alambagh,15-20,5.1 km,13-15 min
+Hussainganj,IT College,10-15,5.2 km,19-20 min
+Amausi,Polytechnic,40-50,25 km,36-40 min
+Amausi,Alambagh,20-25,5.4 km,14-20 min
+Rajajipuram,Ashiyana,30-35,10 km,29-32 min
+Kaiserbagh,Cantt,15-20,4.7 km,17-20 min
+Butler Palace,KGMU,20-25,5.5 km,16-20 min
+Dubagga,Kapoorthala,40-50,14 km,33-35 min
+Butler Palace,Cantt,15-20,4.4 km,11-15 min
+Telibagh,Alambagh,20-30,9 km,20-25 min
+Telibagh,Hussainganj,20-30,9 km,20-25 min
+1090 Chauraha,Transport Nagar,30-40,17 km,35-45 min
+Faizabad Road,Cantt,40-50,16 km,33-40 min
+Chinhat,Chowk,35-45,12 km,25-30 min
+Thakurganj,Hazratganj,15-25,7 km,20-25 min
+PGI,1090 Chauraha,30-40,12 km,25-30 min
+Indira Nagar,Munshi Pulia,10-15,2 km,3-5 min
+Cantt,Balaganj,30-40,11 km,35-40 min
+IT College,Aliganj,10-20,5 km,10-15 min
+Mahanagar,Ashiyana,40-50,15 km,30-35 min
+Rumi Gate,SGPGI,45-55,17 km,40-50 min
+Balaganj,LDA Colony,25-35,13 km,30-35 min
+Bhoothnath,Hussainganj,10-20,8 km,20-25 min
+Badshah Nagar,Kaiserbagh,10-20,6 km,15-20 min
+Transport Nagar,Chinhat,40-55,24 km,40-50 min
+Rajajipuram,Kamta,55-65,20 km,40-50 min
+Badshah Nagar,Hussainganj,20-25,6 km,15-20 min
+Badshah Nagar,kamta,20-25,7 km,15-20 min
+Rajajipuram,Polytechnic,40-50,16 km,35-40 min
+Telibagh,Rumi Gate,30-40,13.5 km,30-35 min
+KGMU,Cantt,20-30,8 km,15-20 min
+Jankipuram,Vikas Nagar,10-20,5.5 km,10-15 min
+Chinhat,Transport Nagar,40-55,24 km,40-50 min
+Chinhat,Para,35-45,15 km,30-32 min
+Sadar,Barabanki,60-80,25 km,40-50 min
+Alambagh,Munshi Pulia,40-55,17 km,30-40 min
+Krishna Nagar,IT College,30-40,14 km,30-40 min
+Thakurganj,Malhaur,55-65,19 km ,50-55 km
+BBD,Safedabad ,10-20,9 km,15-20 min
+BBD,Charbagh,50-60,18.2 km,37-50 min
