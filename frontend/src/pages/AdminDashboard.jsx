@@ -84,7 +84,7 @@ function AdminDashboard() {
       }
 
       const response = await fetch(
-        "http://https://faremate-backend.onrender.com/api/reports/pending",
+        "https://faremate-backend.onrender.com/api/reports/pending",
         {
           headers: {
             Authorization: `Bearer ${token}`,
