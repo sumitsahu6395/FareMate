@@ -5,6 +5,9 @@ const adminAuth = require("../middleware/adminAuth");
 
 const router = express.Router();
 
+// ===============================
+// ADMIN LOGIN
+// ===============================
 router.post("/login", async (req, res) => {
   try {
     const { email, password } = req.body;
@@ -14,12 +17,6 @@ router.post("/login", async (req, res) => {
         message: "Email and password are required",
       });
     }
-        router.get("/dashboard", adminAuth, (req, res) => {
-      res.json({
-        message: "Welcome to Admin Dashboard",
-        admin: req.admin,
-      });
-    });
 
     const admin = await Admin.findOne({
       email: email.toLowerCase().trim(),
@@ -61,6 +58,16 @@ router.post("/login", async (req, res) => {
       error: error.message,
     });
   }
+});
+
+// ===============================
+// ADMIN DASHBOARD TEST
+// ===============================
+router.get("/dashboard", adminAuth, (req, res) => {
+  res.json({
+    message: "Welcome to Admin Dashboard",
+    admin: req.admin,
+  });
 });
 
 module.exports = router;
