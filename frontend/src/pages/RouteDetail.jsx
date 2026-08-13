@@ -46,7 +46,7 @@ function RouteDetail() {
         setError("");
 
         const response = await fetch(
-          `http://localhost:5000/api/routes/${id}`
+          `http://https://faremate-backend.onrender.com/api/routes/${id}`
         );
 
         if (!response.ok) {

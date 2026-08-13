@@ -34,7 +34,7 @@ function AdminLogin() {
       setLoading(true);
 
       const response = await fetch(
-        "http://localhost:5000/api/admin/login",
+        "http://https://faremate-backend.onrender.com/api/admin/login",
         {
           method: "POST",
           headers: {
