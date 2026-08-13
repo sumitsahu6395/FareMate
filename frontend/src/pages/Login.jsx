@@ -61,7 +61,7 @@ function Login() {
       setLoading(true);
 
       const response = await fetch(
-        "http://https://faremate-backend.onrender.com/api/users/login",
+        "https://faremate-backend.onrender.com/api/users/login",
         {
           method: "POST",
           headers: {

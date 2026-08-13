@@ -39,7 +39,7 @@ function Dashboard() {
 
       try {
         const response = await fetch(
-          "http://https://faremate-backend.onrender.com/api/users/profile",
+          "https://faremate-backend.onrender.com/api/users/profile",
           {
             method: "GET",
             headers: {

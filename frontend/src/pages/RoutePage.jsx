@@ -82,7 +82,7 @@ function RoutePage() {
         setError("");
 
         const response = await fetch(
-          "http://https://faremate-backend.onrender.com/api/routes"
+          "https://faremate-backend.onrender.com/api/routes"
         );
 
         if (!response.ok) {

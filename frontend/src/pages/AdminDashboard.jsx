@@ -120,7 +120,7 @@ function AdminDashboard() {
       setRouteError("");
 
       const response = await fetch(
-        "http://https://faremate-backend.onrender.com/api/routes"
+        "https://faremate-backend.onrender.com/api/routes"
       );
 
       const data = await response.json();
@@ -238,7 +238,7 @@ function AdminDashboard() {
       setError("");
 
       const response = await fetch(
-        `http://https://faremate-backend.onrender.com/api/reports/${reportId}/${action}`,
+        `https://faremate-backend.onrender.com/api/reports/${reportId}/${action}`,
         {
           method: "PATCH",
           headers: {
@@ -346,7 +346,7 @@ function AdminDashboard() {
       setRouteError("");
 
       const response = await fetch(
-        `http://https://faremate-backend.onrender.com/api/routes/${routeId}`,
+        `https://faremate-backend.onrender.com/api/routes/${routeId}`,
         {
           method: "PATCH",
 
@@ -418,7 +418,7 @@ function AdminDashboard() {
       setRouteError("");
 
       const response = await fetch(
-        `http://https://faremate-backend.onrender.com/api/routes/${routeId}`,
+        `https://faremate-backend.onrender.com/api/routes/${routeId}`,
         {
           method: "DELETE",
           headers: {

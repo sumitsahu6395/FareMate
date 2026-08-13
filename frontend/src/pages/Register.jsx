@@ -74,7 +74,7 @@ function Register() {
       setLoading(true);
 
       const response = await fetch(
-        "http://https://faremate-backend.onrender.com/api/users/register",
+        "https://faremate-backend.onrender.com/api/users/register",
         {
           method: "POST",
           headers: {

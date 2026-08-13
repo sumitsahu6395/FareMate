@@ -29,7 +29,7 @@ function ReportFare() {
   }
 
   try {
-            const response = await fetch("http://https://faremate-backend.onrender.com/api/reports", {
+            const response = await fetch("https://faremate-backend.onrender.com/api/reports", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
