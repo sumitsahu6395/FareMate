@@ -6,7 +6,7 @@ require("dotenv").config();
 const app = express();
 const routeRoutes = require("./routes/routeRoutes");
 const reportRoutes = require("./routes/reportRoutes");
-const adminRoutes = require("./routes/adminRoutes");
+const adminRoutes = require("./routes/AdminRoutes");
 const userRoutes = require("./routes/userRoutes");
 
 // Middleware
